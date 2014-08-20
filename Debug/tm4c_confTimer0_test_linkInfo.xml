@@ -2,7 +2,7 @@
 <link_info>
    <banner>TI ARM Linker PC v5.1.5</banner>
    <copyright>Copyright (c) 1996-2014 Texas Instruments Incorporated</copyright>
-   <link_time>0x53e90c17</link_time>
+   <link_time>0x53ef0899</link_time>
    <link_errors>0x0</link_errors>
    <output_file>tm4c_confTimer0_test.out</output_file>
    <entry_point>
